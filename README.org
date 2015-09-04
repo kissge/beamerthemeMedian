@@ -1,0 +1,5 @@
+* About
+
+This Beamer theme was forked from https://bitbucket.org/marczellm/beamerports .
+Its license is given [[https://bitbucket.org/marczellm/beamerports/src/62840a66640d6b38da8618a71c591b1ea769a345/license_information.md?at=master][here]].
+Accordingly my modification is also licensed under CC-BY-SA.
